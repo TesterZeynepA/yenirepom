@@ -1,1 +1,1 @@
-# yenirepom
+# uzaktaki repomu aldım
